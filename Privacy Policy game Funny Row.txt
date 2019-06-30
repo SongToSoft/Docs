@@ -1,7 +1,7 @@
 Privacy Policy game Funny Row
 __________________________________________________
 ⦁		The game Funny Row has the function of automatically connecting the Google Play profile of the player to the game service to track its statistics in the game, get record its records in the general table of records (leaderboard). Connection to the profile occurs only when the user has access to the Internet.
-⦁		In the game there is an advertising service Unity Ads, which is shown every third player loss.
+⦁		In the game there is an advertising service Unity Ads.
 ⦁		There are no in-game purchases in the game.
 
 
